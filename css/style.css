@@ -1,0 +1,11 @@
+body {
+    background-color: cornflowerblue;
+
+
+}
+
+.mainDiv {
+    width: 600px;
+    height: 600px;
+    background-color: brown;
+}
